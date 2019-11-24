@@ -1,5 +1,6 @@
 # iArt-Service
 A web service created in python using Flask for [iArt project](https://github.com/Tapaswi846580/iArt)<br>
+Developed by [Tapaswi Satyapanthi](https://www.linkedin.com/in/tapaswi97/)
 
 As the file size of some files exceeds the github's maximum file size(100 mb) I have kept this project on the **Google Drive**<br>
 Please refer the **Getting Started** Section in order to download the project required libraries.
