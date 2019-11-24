@@ -27,7 +27,7 @@ import tensorflow as tf
 ```
 from ```service.py```, ```src > transform.py``` and ```src > vgg.py```<br>
 
-If you your you are using tensorflow 2.0 then keep everything as it is.<br>
+If you are using tensorflow 2.0 then keep everything as it is.<br>
 As I was using Tensorflow 2.0 for other projects but for this project it requires tensorflow 1.0 so I have imported tensorflow version 1 and used its behaviour.
 
 #### 3. [Flask '1.1.1'](https://pypi.org/project/Flask/1.1.1/)
