@@ -35,6 +35,7 @@ As I was using Tensorflow 2.0 for other projects but for this project it require
 #### 5. [OpenCV '4.1.1'](https://docs.opencv.org/4.1.1/)
 #### 6. [Scipy '1.1.0'](https://pypi.org/project/scipy/1.1.0/)
 #### 7. [Numpy '1.17.4'](https://pypi.org/project/numpy/1.17.3/)
+#### 8. [Caffe](http://caffe.berkeleyvision.org/)
 
 ## Starting the service
 After installing all the requirments browse to the project directory and simply run the ```service.py``` by double clicking on the file or by command ```python service.py```
